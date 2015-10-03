@@ -25,7 +25,7 @@ var circle = shapes.circle({color: '#000333', size:'100px', border:{width:'100px
 document.body.appendChild(circle)  
   
   
-NOTE: All options are optional, except for the size.
+//NOTE: All options are optional, except for the size.
 ```
   
 ## Future stuff...
