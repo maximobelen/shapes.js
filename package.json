@@ -1,6 +1,6 @@
 {
   "name": "shapes.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A creator for div with different shapes",
   "main": "index.js",
   "scripts": {
